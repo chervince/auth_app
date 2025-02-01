@@ -46,7 +46,7 @@ export default function Home() {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <Card className="w-[350px]">
         <CardHeader>
-          <CardTitle>Bienvenue</CardTitle>
+          <CardTitle>Bienvenue à vous!</CardTitle>
           <CardDescription>Connectez-vous ou inscrivez-vous pour continuer</CardDescription>
         </CardHeader>
         <CardContent>
